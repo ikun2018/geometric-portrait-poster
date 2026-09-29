@@ -1,0 +1,14 @@
+interface:
+  display_name: Geometric Portrait Poster
+  short_description: Create sharp polygonal portrait posters from photos or prompts.
+  default_prompt: Use $geometric-portrait-poster to turn my portrait into palette
+    01.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
